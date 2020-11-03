@@ -6,7 +6,7 @@ BasicCommands is a minecraft plugin. It permit you to have simple/basic command 
 - /sethome [home_name]
 - /delhome [home_name]
 
-- /tpa [home_name]
+- /tpa [player_name]
 - /tpaccept 
 - /tpadeny
 

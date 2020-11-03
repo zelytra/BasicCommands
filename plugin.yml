@@ -1,0 +1,41 @@
+name: BasicCommands
+version: 1.0
+author: Zelytra
+main: fr.zelytra.BasicCommands.BasicCommands
+api-version: 1.16
+commands: 
+  tpa:
+    description: 
+    permission: BasicCommands.tpa
+  tpaccept:
+    description: 
+    permission: BasicCommands.tpa
+  tpadeny:
+    description: 
+    permission: BasicCommands.tpa
+  tpahere:
+    description: 
+    permission: BasicCommands.tpa
+  spawn:
+    description: 
+    permission: BasicCommands.spawn
+  setspawn:
+    description: 
+    permission: BasicCommands.setspawn
+  home:
+    description: 
+    permission: BasicCommands.home
+  sethome:
+    description: 
+    permission: BasicCommands.home
+  delhome:
+    description: 
+    permission: BasicCommands.home
+  homelist:
+    description: 
+    permission: BasicCommands.home
+    
+  
+
+  
+

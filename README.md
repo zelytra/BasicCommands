@@ -23,10 +23,10 @@ BasicCommands is a minecraft plugin. It permit you to have simple/basic command 
 # Configuration
 ## Config.yml
 In this file, you can :
--set MaxHome number for all players
--set home cooldowns between command execution in seconds
--set tpa cooldowns between command execution in seconds
--set spawn cooldowns between command execution in seconds
+- set MaxHome number for all players
+- set home cooldowns between command execution in seconds
+- set tpa cooldowns between command execution in seconds
+- set spawn cooldowns between command execution in seconds
 ## Spawn.yml
 This document is use by the plugin to store the location data of the spawn saved. You can manually change the document.
 ## Homes.yml
